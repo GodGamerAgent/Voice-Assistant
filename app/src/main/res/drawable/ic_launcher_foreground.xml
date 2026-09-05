@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimalist Voice Assist foreground centered and compact within safe zone -->
+
+    <!-- Minimalist Compact Microphone Capsule (Vibrant Indigo) -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,39 C49.6,39 46,42.6 46,47 L46,54 C46,58.4 49.6,62 54,62 C58.4,62 62,58.4 62,54 L62,47 C62,42.6 58.4,39 54,39 Z" />
+
+    <!-- Slender Minimalist Cradle & Stand (Crisp Pure White) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M41,51 C41,58.5 46.8,66 54,66 C61.2,66 67,58.5 67,51 M54,66 L54,73 M48,73 L60,73" />
+
+    <!-- Subtle Minimalist AI Sparkle Accent (Warm Amber Gold) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M69,34 C69,36.5 71,38.5 73.5,38.5 C71,38.5 69,40.5 69,43 C69,40.5 67,38.5 64.5,38.5 C67,38.5 69,36.5 69,34 Z" />
+</vector>

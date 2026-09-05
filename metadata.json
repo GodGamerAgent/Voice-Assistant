@@ -1,0 +1,8 @@
+{
+  "name": "Voice Assist Final",
+  "description": "System-wide voice dictation and tone-based AI reply assistant with floating overlay and Quick Settings tile",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

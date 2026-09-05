@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Voice Assist</string>
+    <string name="tile_name">Voice/Reply Assist</string>
+    <string name="tile_active">Active</string>
+    <string name="tile_inactive">Inactive</string>
+    <string name="accessibility_service_name">Voice Assist Text Injector</string>
+    <string name="accessibility_service_description">Enables Voice Assist to inject dictated speech and generated AI replies directly into the active text input across your apps, and read nearby conversation context for smart replies.</string>
+    <string name="overlay_notification_channel_name">Voice Assist Floating Service</string>
+    <string name="overlay_notification_channel_desc">Shows status while the floating dictation and reply bubble is running.</string>
+    <string name="overlay_notification_title">Voice Assist is active</string>
+    <string name="overlay_notification_text">Floating bubble ready for dictation and AI replies</string>
+</resources>
