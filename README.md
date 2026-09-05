@@ -175,3 +175,7 @@ Voice Assist supports exporting and importing your entire AI routing setup as JS
 ## License
 
 This project is licensed under the Apache 2.0 License.
+
+---
+
+# The Complete Project is built using Google AI Studio
